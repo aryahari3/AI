@@ -6,4 +6,5 @@ Pose-controlled balloon using face/hand gestures.
 
 ## Technologies/Languages used
 HTML, CSS, JavaScript
-AI : Posenet
+
+<b>AI :</b> Posenet
